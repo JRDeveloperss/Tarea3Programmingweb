@@ -1,7 +1,6 @@
 const url = 'http://www.raydelto.org/agenda.php';
 
 
-//this function is when load the the DOM you call (getAll)
 function event(){
     document.addEventListener('DOMContentLoaded',getAll)
 }
